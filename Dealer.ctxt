@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dealer
+comment0.text=\r\n\ .\r\n\r\n\ @oliviareinecke\r\n\ @3/22\r\n
+comment1.params=
+comment1.target=Dealer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dealer\r\n
+comment2.params=
+comment2.target=void\ deal()
+numComments=3
